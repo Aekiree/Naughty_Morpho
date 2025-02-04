@@ -1,9 +1,9 @@
 body {
     background-image: url("docs/assets/images/naughty_logo_light.jpg");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: half;
     background-attachment: fixed;
-    background-position: center;
+    background-position: right top;
     color: #FFFFFF;
 }
 h1 {color: black;}
